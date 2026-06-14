@@ -2,7 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ariolmos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ariolmos/) [![Substack](https://img.shields.io/badge/Substack-ariolmos-FF6719?style=flat&logo=substack&logoColor=white)](https://ariolmos.substack.com/) [![Website](https://img.shields.io/badge/Web-surfario.com-111?style=flat&logo=safari&logoColor=white)](https://surfario.com/)
 
-Founder & product leader, 16 years building zero-to-one. Built **[LaborVoices](https://www.linkedin.com/in/ariolmos/)** (ethical-sourcing SaaS → $1.2M ARR, sold to Gap, Marks & Spencer & VF) and **[blossm.garden](https://blossm.garden)** (Techstars; SoCal "Cool Company"; 75k+ users). Now building **[Fleetsnap](https://fleetsnap.ai)** — AI automating 1,000+ messages per day & damage claims for rental fleet operators. Open-sourcing the tools I use with founders: **[Landing Page Teardown](https://github.com/surfario/landing-page-teardown)**.
+Founder & product leader. 
+
+Built **[LaborVoices](https://www.linkedin.com/in/ariolmos/)** (ethical-sourcing SaaS → $1.2M ARR, sold to Gap, Marks & Spencer & VF) and **[Blossm](https://blossm.garden)** (Techstars; SoCal "Cool Company"; 75k+ users). Now building **[Fleetsnap](https://fleetsnap.ai)** — AI automating 1,000+ messages per day & damage claims for rental fleet operators. Open-sourcing the tools I use with founders: **[Landing Page Teardown](https://github.com/surfario/landing-page-teardown)**.
 
 #### Building
 
