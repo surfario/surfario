@@ -1,8 +1,10 @@
-### Hey, I'm Ari Olmos
+### Hey, I'm Ari 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ariolmos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ariolmos/) [![Substack](https://img.shields.io/badge/Substack-ariolmos-FF6719?style=flat&logo=substack&logoColor=white)](https://ariolmos.substack.com/) [![Website](https://img.shields.io/badge/Web-surfario.com-111?style=flat&logo=safari&logoColor=white)](https://surfario.com/)
 
-Founder & product leader. I currently teach MVP development and AI at the **[Oneday MBA program](https://www.oneday.org/us)**, and I open-source the tools I use with founders.
+Founder & product leader. 
+
+I currently teach MVP development and AI at the **[Oneday MBA program](https://www.oneday.org/us)**, and I'm open-sourincing some tools I've made for founders.
 
 #### Building
 
