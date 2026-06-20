@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ariolmos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ariolmos/) [![Substack](https://img.shields.io/badge/Substack-ariolmos-FF6719?style=flat&logo=substack&logoColor=white)](https://ariolmos.substack.com/) [![Website](https://img.shields.io/badge/Web-surfario.com-111?style=flat&logo=safari&logoColor=white)](https://surfario.com/)
 
-Founder & product leader @ Fleetsnap. 16 years building zero-to-one software companies across SaaS, marketplaces, and tools for small & medium businesses. 
+Founder & product leader @ Fleetsnap. 16 years building zero-to-one across SaaS, marketplaces, and tools for small & medium businesses. 
 
 I currently teach MVP development and AI at the **[Oneday MBA program](https://www.oneday.org/us)**, and I'm open-sourincing some tools I've made for founders.
 
